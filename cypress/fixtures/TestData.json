@@ -1,0 +1,124 @@
+{
+	
+	"TC007": {
+		"CustView": "Customer 360",
+		"CustOptions": "MSISDN",
+		"value": "9062059864"
+    },
+	"TC008": {
+		"CustView": "Customer 360",
+		"CustOptions": "Customer ID",
+		"value": "C354217699"
+	},
+
+	"TC009": {
+		"CustView": "Customer 360",
+		"CustOptions": "OLD/New Account ID",
+		"value": "2000134530"
+	},
+
+
+	"TC010": {
+		"CustView": "Customer 360",
+		"CustOptions": "SIM Number",
+		"value": "89234010003591006136"
+	},
+
+	"TC011": {
+		"CustView": "SIM Swap",
+		"CustOptions": "Customer Name",
+		"value": "Akinkunmi . Ifeanyi"
+	},
+
+	"TC012": {
+		"CustView": "SIM Swap",
+		"CustOptions": "Customer ID",
+		"value": "C001495"
+	},
+
+	"TC013": {
+		"CustView": "SIM Swap",
+		"CustOptions": "OLD/New Account ID",
+		"value": "2000134530"
+	},
+
+	"TC014": {
+		"CustView": "SIM Swap",
+		"CustOptions": "MSISDN",
+		"value": "9132058164"
+	},
+
+	"TC015": {
+		"CustView": "SIM Swap",
+		"CustOptions": "SIM Number",
+		"value": "89234010003544041917"
+	},
+
+	"TC016": {
+		"CustView": "PUK Retrieval",
+		"CustOptions": "Customer Name",
+		"value": "Chike . Olojo"
+	},
+
+	"TC017": {
+		"CustView": "PUK Retrieval",
+		"CustOptions": "Customer ID",
+		"value": "C354235807"
+	},
+
+	"TC018": {
+		"CustView": "PUK Retrieval",
+		"CustOptions": "OLD/New Account ID",
+		"value": "2000134530"
+	},
+
+	"TC019": {
+		"CustView": "PUK Retrieval",
+		"CustOptions": "MSISDN",
+		"value": "9132058141"
+	},
+
+	"TC020": {
+		"CustView": "PUK Retrieval",
+		"CustOptions": "SIM Number",
+		"value": "89234010004235598884"
+	},
+
+	"TC021": {
+		"CustView": "Vas",
+		"CustOptions": "Customer Name",
+		"value": "Chike . Olojo"
+	},
+
+	"TC022": {
+		"CustView": "Vas",
+		"CustOptions": "Customer ID",
+		"value": "C354235807"
+	},
+
+	"TC023": {
+		"CustView": "Vas",
+		"CustOptions": "OLD/New Account ID",
+		"value": "2000134530"
+	},
+
+	"TC024": {
+		"CustView": "Vas",
+		"CustOptions": "MSISDN",
+		"value": "9132058141"
+	},
+
+	"TC025": {
+		"CustView": "Vas",
+		"CustOptions": "SIM Number",
+		"value": "89234010004235598884"
+	},
+
+	"TC026": {
+		"CustView": "Customer 360",
+		"CustOptions": "Customer Name",
+		"value": "Testingteam Istesting"
+	}
+	
+	
+}

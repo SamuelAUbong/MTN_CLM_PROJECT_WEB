@@ -1,0 +1,25 @@
+{
+  "name": "taas_clmwebautomation",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Samuel Ubong",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^12.8.1",
+    "cypress-multi-reporters": "^1.6.3",
+    "cypress-wait-until": "^1.7.2",
+    "mocha": "^10.2.0",
+    "mochawesome": "^7.1.3",
+    "mochawesome-merge": "^4.3.0",
+    "mochawesome-report-generator": "^6.2.0"
+  },
+  "dependencies": {
+    "cypress-file-upload": "^5.0.8",
+    "cypress-plugin-tab": "^1.0.5",
+    "cypress-waitfor": "^1.1.0"
+  }
+}

@@ -1,0 +1,16 @@
+{
+    "chromeWebSecurity": false,
+    "pageLoadTimeout": 350000,
+    "defaultCommandTimeout": 200000,
+    "responseTimeout": 45000,
+    "requestTimeout": 6500,
+    "trashAssetsBeforeRuns": false,
+    "reporter": "mochawesome",
+     "reporterOptions": {
+        "reportDir": "cypress/reports/mochawesome-report",
+		"charts": true,
+        "overwrite": false,
+        "html": true,
+        "json": true
+    }
+}
